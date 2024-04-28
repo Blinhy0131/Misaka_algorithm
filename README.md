@@ -1,1 +1,3 @@
-Misaka_algorithm
+**Misaka_algorithm**
+**御坂美琴演算法**
+是一種基於科學超電磁炮中，御坂妹妹們的御坂網路所構建的演算法
