@@ -1,10 +1,10 @@
 # **Misaka_algorithm**  
 
 ## **Misaka_algorithm**   
-This is an algorithm based on the Misaka Network, which is established in the context of the scientific railgun.   
-The idea is that when sisters engage in battles, the results are uploaded to the Misaka Network.   
-Although the sisters may die, the outcomes of each battle are recorded. Subsequently,   
-based on the results of previous battles, the sisters determine how the battles should be updated,   
+This is an algorithm based on the Misaka Network, which is established in the context of the A Certain Magical Index.   
+The idea is that when sisters fighting in battles, the results are uploaded to the Misaka Network.   
+Although the sisters may die, the outcomes of each battle are recorded.   
+Subsequently, based on the results of previous battles, the sisters determine how the battles should be updated,   
 enabling them to collectively defeat the enemy.  
 
 ### Algorithm Process
@@ -46,7 +46,7 @@ we can define the search distance for each dimension as:
 
     
   
-### 死亡判定  
+### Death Determination:
 Misaka sisters often face high mortality rates during battles due to insufficient combat abilities,   
 mistimed decisions, ~~or be killed by Accelerator~~.
 Initially, the mortality rate of the sisters is 0.99.  
