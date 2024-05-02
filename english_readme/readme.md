@@ -1,6 +1,6 @@
-# **Misaka_algorithm**  
+# **Misaka algorithm**  
 
-## **Misaka_algorithm**   
+## **Misaka algorithm**   
 This is an algorithm based on the Misaka Network, which is established in the context of the A Certain Magical Index.   
 The idea is that when sisters fighting in battles, the results are uploaded to the Misaka Network.   
 Although the sisters may die, the outcomes of each battle are recorded.   
