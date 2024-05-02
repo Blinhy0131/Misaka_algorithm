@@ -1,4 +1,4 @@
-# **Misaka_algorithm**  
+# **Misaka algorithm**  
 
 ## **御坂美琴演算法(MA)**  
 是一種基於科學超電磁炮中，御坂妹妹們的御坂網路所建立的演算法  
